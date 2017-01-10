@@ -1,0 +1,9 @@
+language: ruby
+cache: bundler
+rvm:
+  - 2.2
+  - ruby-head
+  - jruby-head
+
+notifications:
+  email: false
